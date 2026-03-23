@@ -1,5 +1,3 @@
-# 📚 LearnOS — Reducing Course Dropout Rates
-### A FAANG-Level Product Management Case Study
 
 > **Product**: LearnOS — Online Learning Platform  
 > **Role**: Senior Product Manager  
