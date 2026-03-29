@@ -151,18 +151,3 @@ learnos-pm-case-study/
 
 ---
 
-## 👤 About This Case Study
-
-This project demonstrates FAANG-level PM thinking across:
-- Structured problem decomposition
-- Mixed-methods user research
-- Data-informed prioritization
-- Outcome-oriented roadmapping
-- Rigorous experiment design
-- Cross-functional stakeholder management
-
-**Built to showcase PM depth for Senior/Staff PM roles at Google, Meta, Amazon, Apple, and high-growth startups.**
-
----
-
-*Last updated: March 2025 | Product Manager: [Your Name]*
